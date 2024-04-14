@@ -20,13 +20,29 @@ Below are the APIs required to be developed :
 Below are the APIs required to be developed :
 
 
-| 1  | http://localhost:8080/product               | GET all the categories        |
-| 2  | http://localhost:8080/product/add           | POST - create a new category  |
-| 3  | http://localhost:8080/product/102           | GET category by Id            |
-| 4  | http://localhost:8080/product/update/{id}   | PUT - update category bin Id  |
-| 5  | http://localhost:8080/product/delete/{id}   | DELETE - Delete category by id|
+| 1  | http://localhost:8080/product               :- GET all the categories        
+| 2  | http://localhost:8080/product/add           :-POST - create a new category  
+| 3  | http://localhost:8080/product/102           :- GET category by Id            
+| 4  | http://localhost:8080/product/update/{id}   :- PUT - update category bin Id  
+| 5  | http://localhost:8080/product/delete/{id}   :- DELETE - Delete category by id
 
 
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+<H1>HEllo</H1>
+    
+</body>
+</html>
 
 
 This CRUD operation use in :-
