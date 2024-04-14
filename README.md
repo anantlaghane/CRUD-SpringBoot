@@ -78,6 +78,8 @@
     </br>
 </li>
 <img src="All.png" alt="All">
+<img src="Delete.png" alt="Delete">
+
 
     
 </body>
