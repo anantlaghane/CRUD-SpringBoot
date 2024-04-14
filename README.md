@@ -55,12 +55,12 @@ Below are the APIs required to be developed :
         </tr>
         <tr> 
             <td>2</td> 
-            <td> http://localhost:8080/category/add </td> 
+            <td>http://localhost:8080/category/add </td> 
             <td>POST - create a new category</td> 
         </tr> 
         <tr> 
             <td>3</td> 
-            <td> http://localhost:8080/category/102</td> 
+            <td>http://localhost:8080/category/102</td> 
             <td>GET category by Id</td> 
         </tr> 
      <tr> 
