@@ -77,8 +77,21 @@
     </table> 
     </br>
 </li>
-<img src="All.png" alt="All">
+<h6>GET all the categories</h6>
+<img src="CRUD/All.png" alt="All">
+</li>
+<h6>POST - create a new categories</h6>
+<img src="CRUD/new.png" alt="new">
+</li>
+<h6>GET category by Id</h6>
+<img src="Id.png" alt="Id">
+</li>
+<h6>DELETE - Delete category by id</h6>
 <img src="CRUD/Delete.png" alt="Delete">
+</li>
+<h6>PUT - update category bin Id</h6>
+<img src="CRUD/update.png" alt="Delete">
+
 
 
     
