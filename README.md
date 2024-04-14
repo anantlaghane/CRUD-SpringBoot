@@ -4,7 +4,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Java Machine Test</title>
 </head>
 <body>
 <H1>Java Machine Test</H1>
