@@ -35,17 +35,17 @@ Below are the APIs required to be developed :
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Java Machine Test</title>
 </head>
 <body>
 
-<H1>HEllo</H1>
+<H1>This CRUD operation <p>use in :-</p> </H1>
     
 </body>
 </html>
 
 
-This CRUD operation use in :-
+
 1.SpringBootTool4
 2.annotation
 3.JAP & Hibernate
