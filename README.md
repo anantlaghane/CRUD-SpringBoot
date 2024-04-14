@@ -52,7 +52,7 @@ Below are the APIs required to be developed :
             <th>1</th> 
             <th>http://localhost:8080/product</th> 
             <th>GET all the categories</th> 
-        </t
+        </tr>
         <tr> 
             <td>Data 1</td> 
             <td>Data 2</td> 
