@@ -78,7 +78,7 @@
     </br>
 </li>
 <img src="All.png" alt="All">
-<img src="Delete.png" alt="Delete">
+<img src="CRUD/Delete.png" alt="Delete">
 
 
     
