@@ -49,9 +49,9 @@ Below are the APIs required to be developed :
 
  <table border="1"> 
         <tr> 
-            <th>1</th> 
-            <th>http://localhost:8080/category</th> 
-            <th>GET all the categories</th> 
+            <td>1</td> 
+            <td>http://localhost:8080/category</td> 
+            <td>GET all the categories</td> 
         </tr>
         <tr> 
             <td>2</td> 
