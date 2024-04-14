@@ -50,18 +50,28 @@ Below are the APIs required to be developed :
  <table border="1"> 
         <tr> 
             <th>1</th> 
-            <th>http://localhost:8080/product</th> 
+            <th>http://localhost:8080/category</th> 
             <th>GET all the categories</th> 
         </tr>
         <tr> 
-            <td>Data 1</td> 
-            <td>Data 2</td> 
-            <td>Data 3</td> 
+            <td>2</td> 
+            <td> http://localhost:8080/category/add </td> 
+            <td>POST - create a new category</td> 
         </tr> 
         <tr> 
-            <td>Data 4</td> 
-            <td>Data 5</td> 
-            <td>Data 6</td> 
+            <td>3</td> 
+            <td> http://localhost:8080/category/102</td> 
+            <td>GET category by Id</td> 
+        </tr> 
+     <tr> 
+            <td>4</td> 
+            <td> http://localhost:8080/product/delete/{id} </td> 
+            <td>DELETE - Delete category by id</td> 
+        </tr> 
+        <tr> 
+            <td>5</td> 
+            <td>http://localhost:8080/category/update/{id}   </td> 
+            <td>PUT - update category bin Id</td> 
         </tr> 
     </table> 
 
