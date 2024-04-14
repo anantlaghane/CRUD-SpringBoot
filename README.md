@@ -41,11 +41,29 @@ Below are the APIs required to be developed :
 <H1>Java Machine Test</H1>
 <H3>This CRUD operation <p>use in :-</p> </H3>
 </br>
-<p>SpringBootTool Suite</p>
+<p>1.SpringBootTool Suite</p>
 <p>2.annotation</p>
 <p>3.JAP & Hibernate</p>
 <p>4.Tesing PostMan</p>
 </br>
+
+ <table border="1"> 
+        <tr> 
+            <th>1</th> 
+            <th>http://localhost:8080/product</th> 
+            <th>GET all the categories</th> 
+        </t
+        <tr> 
+            <td>Data 1</td> 
+            <td>Data 2</td> 
+            <td>Data 3</td> 
+        </tr> 
+        <tr> 
+            <td>Data 4</td> 
+            <td>Data 5</td> 
+            <td>Data 6</td> 
+        </tr> 
+    </table> 
 
 
     
