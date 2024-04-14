@@ -75,6 +75,9 @@
             <td>PUT - update product bin Id</td> 
         </tr> 
     </table> 
+    </br>
+</li>
+<img src="All.png" alt="All">
 
     
 </body>
