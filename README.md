@@ -40,13 +40,21 @@ Below are the APIs required to be developed :
 <body>
 
 <H1>This CRUD operation <p>use in :-</p> </H1>
+</br>
+<p>SpringBootTool Suite</p>
+<p>2.annotation</p>
+<p>3.JAP & Hibernate</p>
+<p>4.Tesing PostMan</p>
+</br>
+
+
     
 </body>
 </html>
 
 
 
-1.SpringBootTool4
-2.annotation
-3.JAP & Hibernate
-4.Tesing PostMan
+
+
+
+
